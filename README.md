@@ -1,1 +1,1 @@
-# Smolov-
+# Smolov- This program is designed to create a custom 4 week workout plan based on the users own unique specifications. The user will input their bodyweight and should begin on week 1. Each week calculates weights for fixed sets and reps based on max inputted by user.
